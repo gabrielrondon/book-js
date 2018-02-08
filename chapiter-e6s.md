@@ -37,3 +37,53 @@ class Rectangle {
 There are some methods which we could use when we are working with classes. We are going to explain each one of them and give an example of it.
 ### constructor()
 Constructors are
+
+````javascript
+class MySelf {
+	constructor (name, age, hobby) {
+		this._name = name;
+		this._age = age;
+		this._hobby = hobby;
+	}
+	
+	getName() {
+		return this._name;
+	}
+	
+	getAge() {
+		return this._age;
+	}
+	
+	getHobby() {
+		return this._hobby;
+	}
+	
+	setName() {
+		this._name = name;
+	}
+	
+	setAge() {
+		this._Age = age;
+	}
+	
+	setHobby() {
+		this._hobby = hobby;
+	}
+}
+````
+
+### getters/setters
+
+...
+
+### super
+
+...
+
+### static
+
+...
+
+### Inheritance (extends)
+
+....
