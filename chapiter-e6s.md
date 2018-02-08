@@ -1,4 +1,4 @@
-#Chapiter: ES6
+# Chapiter: ES6
 ## What is ES6?
 ES6 means EcmaScript which you can define as the official name for the programming language as we know as *JavaScript*. It is not important to talk about the history of the name of this programming language. You can find this in the beginning of the book.
 
@@ -25,11 +25,15 @@ console.log(multiply(3));
 
 ## Class
 To create a class just use the `class` keyword:
-````javascript
+```javascript
 class Rectangle {
 	constructor(height, width) {
 	this.height = height;
 	this.width = width;
 	}
 }
-````
+```
+
+There are some methods which we could use when we are working with classes. We are going to explain each one of them and give an example of it.
+### constructor()
+Constructors are
