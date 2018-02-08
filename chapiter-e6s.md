@@ -22,3 +22,14 @@ const multiply = num => num * a;
 
 console.log(multiply(3));
 ```
+
+## Class
+To create a class just use the `class` keyword:
+````javascript
+class Rectangle {
+	constructor(height, width) {
+	this.height = height;
+	this.width = width;
+	}
+}
+````
