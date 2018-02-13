@@ -1,6 +1,7 @@
 # Chapiter: ES6
 ## What is ES6?
 ES6 means EcmaScript which you can define as the official name for the programming language as we know as *JavaScript*. It is not important to talk about the history of the name of this programming language. You can find this in the beginning of the book.
+ECMAScript is the standard. Javascript is the implementation of this standard. ES6 is the 6th version of ECMAScript.
 
 ## Arrow Functions
 
